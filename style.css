@@ -1,16 +1,14 @@
 *{
-    box-sizing: border-box;
+   margin: 0;
+   padding: 0;
 }
-header{
+head{
     color: red;
 }
-
+.hello{
+}
 aside{
     color:blue ;
 footer{
     color: aliceblue;
-}
-
-nav{
-    color: aqua;
 }
