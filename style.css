@@ -5,13 +5,10 @@
 head{
     color: red;
 }
-
+.hello{
+}
 aside{
     color:blue ;
 footer{
     color: aliceblue;
-}
-
-nav{
-    color: aqua;
 }
